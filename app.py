@@ -53,7 +53,7 @@ with st.container():
         st.write(
             """
             I'm Krishnapriya V S. I'm an Indian based web designer currently persuing my B-Tech Engineering 
-            degree. I'm 18 years of age and is passionate about crafting clean and user-friendly experiences 
+            degree. I'm 20 years of age and is passionate about crafting clean and user-friendly experiences 
             for all. Though right now I'm focused more on completing my undergraduate degree, Web designing 
             is one profession which I easily love.
 

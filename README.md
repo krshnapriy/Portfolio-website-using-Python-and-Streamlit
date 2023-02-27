@@ -5,6 +5,6 @@ A portfolio website created purely using Python and Streamlit which is an open-s
 
 ## Screenshots
 
-<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/aboutme.jpeg" width="380" height="210" />
-<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/myprojects.jpeg" width="380" height="210" />
-<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/contactme.jpeg" width="380" height="210" />
+<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/aboutme.jpeg" width="400" height="210" />
+<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/myprojects.jpeg" width="400" height="210" />
+<img src="https://github.com/krshnapriy/Portfolio-website-using-Python-and-Streamlit/blob/main/Screenshots/contactme.jpeg" width="400" height="210" />
